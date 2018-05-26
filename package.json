@@ -1,0 +1,17 @@
+{
+  "name": "dyna-template",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "poi",
+    "build": "poi build"
+  },
+  "author": "Matthias Hryniszak",
+  "devDependencies": {
+    "poi": "^9.6.13",
+    "v-runtime-template": "^1.5.1",
+    "vue": "^2.5.16",
+    "vue-class-component": "^6.2.0",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
